@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utc-8" standalone="no" ?>
+
+Parte 1 Actividad 1
+<Pedido>
+    <Artículo>tablet Samsung Galaxy Tab A8</Artículo>
+    <Comprador>Pedro Martin Martínez </Comprador>
+    <Dirección>calle Virgen de la cruz 2, séptimo piso, letra A </Dirección>
+    <Fechaentrega>17-10-2022 </Fechaentrega>
+
+
+
+Parte 2 Actividad 1
+<Mail>
+    <Destinatario>
+        <Nombre>Adolfo </Nombre>
+        <Mail>Adolfo@gmail.net</Mail>
+    </Destinatario>
+    <Remitente>
+        <Nombre>Roberto</Nombre>
+        <Mail>Roberto@gmail.com</Mail>
+    </Remitente>
+    <Asunto>Cosas </Asunto>
+    <Texto>
+        <Párrafo>....</Párrafo>
+    </Texto>
+</Mail>
+
+Parte 3 Actividad 1
+<Alimentos> 
+    <Alimento tipo="legumbre" coccion="cocidos" calorias="1090">Garbanzo</Alimento>
+    <Alimento tipo="pescados" coccion="fritos" calorias="118">Calamares</Alimento>
+    <Alimento tipo="varios" coccion="carne" calorias="536">Raviolis</Alimento>
+    <Alimento tipo="fruta" coccion="fresco" calorias="50">Piña</Alimento>
+</Alimentos>
+    
